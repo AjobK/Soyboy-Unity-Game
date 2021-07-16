@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemySpawner
+  - shadow_casters
+  - waveUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerProjectile
+  - Player
+  - EnemyProjectile
+  - Enemy
+  - Bounding Box
+  - Walls
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4222234183
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interactables
+    uniqueID: 572935875
+    locked: 0
+  - name: Vending Machine
+    uniqueID: 711571041
+    locked: 0
+  - name: Enemy
+    uniqueID: 2013736631
+    locked: 0
+  - name: Player
+    uniqueID: 1935539181
+    locked: 0
+  - name: Wall
+    uniqueID: 3701861237
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1028798109
+    locked: 0
